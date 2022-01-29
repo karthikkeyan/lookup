@@ -1,0 +1,4 @@
+"com.perfectsearch.search.navigationtitle" = "Business Search";
+"com.perfectsearch.search.placeholder" = "restaurants, gas, groceries...";
+
+"com.perfectsearch.search.error" = "Error fetching search result";
